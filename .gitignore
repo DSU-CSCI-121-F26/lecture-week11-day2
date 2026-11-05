@@ -1,0 +1,9 @@
+### Instructor solutions and notes - MUST stay ignored ###
+/solution/
+
+target/
+.idea/
+*.iml
+out/
+.DS_Store
+__pycache__/
